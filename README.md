@@ -1,3 +1,3 @@
 # GitLearning
 
-master edit it
+master edit it and resolve conflict
